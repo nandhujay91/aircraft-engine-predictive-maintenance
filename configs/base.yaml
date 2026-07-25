@@ -1,0 +1,7 @@
+data:
+  raw_dir: data/raw
+  processed_dir: data/processed
+
+dataset: FD001
+
+random_state: 42
